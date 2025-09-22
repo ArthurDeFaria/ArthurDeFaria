@@ -2,6 +2,8 @@
 
 Aqui estão as principais tecnologias e ferramentas com as quais eu tenho conhecimento:
 
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,3 +28,5 @@ Aqui estão as principais tecnologias e ferramentas com as quais eu tenho conhec
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-E67E22?style=for-the-badge&logo=filezilla&logoColor=white)
+  
+</div>
