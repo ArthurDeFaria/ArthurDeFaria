@@ -10,7 +10,7 @@
 
 Sou estudante finalista de **Análise e Desenvolvimento de Sistemas no IFSP** e Desenvolvedor Backend apaixonado por código limpo e performance. Minha jornada técnica combina o desenvolvimento de software com uma base sólida em infraestrutura.
 
-* 🎓 **Formação:** Graduando em ADS (IFSP Bragança Paulista).
+* 🎓 **Formação:** Desenvolvedor graduado em ADS (IFSP Bragança Paulista).
 * 💼 **Foco:** Desenvolvimento de APIs RESTful robustas com **Java (Spring Boot)** e **Python**.
 * 🐧 **Linux:** Usuário avançado de **Arch Linux** (Hyprland), com domínio de terminal e shell scripting.
 * 💬 **Idiomas:** Inglês Fluente (**Certificação MET**) e experiência prévia como professor, o que me deu uma ótima oratória e didática para trabalho em equipe.
