@@ -68,7 +68,7 @@ Sou estudante finalista de **Análise e Desenvolvimento de Sistemas no IFSP** e 
   <a href="https://www.linkedin.com/in/arthur-defaria/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
-  <a href="https://www.arthurdefaria.github.io/" target="_blank">
+  <a href="https://arthurdefaria.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%23328BA8?style=for-the-badge" target="_blank" />
   </a> 
 </div>
