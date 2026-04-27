@@ -29,7 +29,7 @@ Sou estudante finalista de **Análise e Desenvolvimento de Sistemas no IFSP** e 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-<br><br>
+<br>
 
 **DevOps, Infra & OS**
 <br>
@@ -39,7 +39,7 @@ Sou estudante finalista de **Análise e Desenvolvimento de Sistemas no IFSP** e 
 <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<br><br>
+<br>
 
 **Bancos de Dados**
 <br>
