@@ -55,9 +55,8 @@ Sou estudante finalista de **Análise e Desenvolvimento de Sistemas no IFSP** e 
 
 | Projeto | Tecnologia | Descrição |
 | :--- | :---: | :--- |
-| **[E-commerce REST API](https://github.com/ArthurDeFaria/ecommerce_restapi)** | `Java 21` `Spring Boot 3` `PostgreSQL` | API robusta com check-out, integração com **Mercado Pago** e **SuperFrete**, documentada com Swagger e coberta por testes. |
-| **[To-Do List Fullstack](https://github.com/ArthurDeFaria/docker-flask-angular-todo)** | `Python` `Angular` `Docker Swarm` | Aplicação completa com arquitetura desacoplada, orquestração de containers via **Docker Swarm** e proxy reverso **Nginx**. |
-| **[Calculadora Cross-Platform](https://github.com/ArthurDeFaria/projeto-calculadora-python)** | `Python` `Flet` | Aplicação Desktop com Interface Gráfica (GUI) moderna, focada em arquitetura limpa e separação de responsabilidades. |
+| **[E-commerce REST API](https://github.com/ArthurDeFaria/ecommerce_restapi)** | `Java` `Spring Boot` `PostgreSQL` | API robusta com check-out, integração com **Mercado Pago** e **SuperFrete**, documentada com Swagger e coberta por testes. |
+| **[Notification Service](https://github.com/ArthurDeFaria/notification-service)** | `Java` `Spring Boot` `RabbitMQ` `MongoDB` | Microserviço orientado a eventos para processamento assíncrono de e-mails via **RabbitMQ**, garantindo resiliência e persistência de logs no **MongoDB**. |
 
 ---
 
