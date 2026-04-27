@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante finalista de **Análise e Desenvolvimento de Sistemas no IFSP** e Desenvolvedor Backend apaixonado por código limpo e performance. Minha jornada técnica combina o desenvolvimento de software com uma base sólida em infraestrutura.
+Formado em **Análise e Desenvolvimento de Sistemas no IFSP** e Desenvolvedor Backend apaixonado por código limpo e performance. Minha jornada técnica combina o desenvolvimento de software com uma base sólida em infraestrutura.
 
 * 🎓 **Formação:** Desenvolvedor graduado em ADS (IFSP Bragança Paulista).
 * 💼 **Foco:** Desenvolvimento de APIs RESTful robustas com **Java (Spring Boot)** e **Python**.
